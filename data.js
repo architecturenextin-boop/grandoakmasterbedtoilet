@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-toilet-2",
-      "name": "toilet 2",
+      "id": "0-mtoilets",
+      "name": "mtoilets",
       "levels": [
         {
           "tileSize": 256,
